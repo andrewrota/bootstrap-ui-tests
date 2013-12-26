@@ -13,5 +13,9 @@ results
 
 npm-debug.log
 node_modules
-.idea
 bower_components
+
+.idea
+*.iml
+
+*.DS_Store
