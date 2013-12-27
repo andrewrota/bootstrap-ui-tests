@@ -1,2 +1,3 @@
-bootstrap-ui-tests
-==================
+# Bootstrap UI Tests
+
+An experiment in web UI testing
